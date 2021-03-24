@@ -1,2 +1,0 @@
-# botbuilderfordiscord
-Secret.
